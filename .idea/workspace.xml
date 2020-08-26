@@ -28,8 +28,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.multiple">
-    <configuration name="div" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alarm">
+    <configuration name="LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +37,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A÷B" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/윤년" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A÷B/div.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/윤년/LeapYear.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +50,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fourcal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestScore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/시험 성적" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/사칙연산/fourcal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/시험 성적/TestScore.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="alarm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/곱셈" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/알람 시계" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/곱셈/multiple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/알람 시계/alarm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remainder (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/나머지" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/두 수 비교하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/입출력과 사칙연산/나머지/remainder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/두 수 비교하기/compare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remainder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quadrant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/배열/나머지" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/사분면 고르기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/배열/나머지/remainder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/사분면 고르기/quadrant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multiple" />
-        <item itemvalue="Python.remainder (1)" />
-        <item itemvalue="Python.remainder" />
-        <item itemvalue="Python.fourcal" />
-        <item itemvalue="Python.div" />
+        <item itemvalue="Python.alarm" />
+        <item itemvalue="Python.quadrant" />
+        <item itemvalue="Python.LeapYear" />
+        <item itemvalue="Python.TestScore" />
+        <item itemvalue="Python.compare" />
       </list>
     </recent_temporary>
   </component>
@@ -156,22 +156,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598465204779">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598466844137">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598465204779" />
-    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598465204779">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598466844137" />
+    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598466844137">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598465204779" />
-    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598465204779">
+    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598466844137" />
+    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598466844137">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598465204779" />
-    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598465204779">
+    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598466844137" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598466844137">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598465204779" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598466844137" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
