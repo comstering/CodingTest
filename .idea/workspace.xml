@@ -28,8 +28,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.a+b-7">
-    <configuration name="LeapYear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pluscycle">
+    <configuration name="a+b-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +37,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/윤년" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/A+B-4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/윤년/LeapYear.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/A+B-4/a+b-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a+b-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/A+B-5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/A+B-5/a+b-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,27 +92,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alarm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/알람 시계" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/알람 시계/alarm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quadrant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pluscycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/사분면 고르기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/더하기 사이클" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/사분면 고르기/quadrant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/더하기 사이클/pluscycle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pluscycle" />
+        <item itemvalue="Python.a+b-4" />
+        <item itemvalue="Python.a+b-5" />
         <item itemvalue="Python.a+b-7" />
         <item itemvalue="Python.compare" />
-        <item itemvalue="Python.alarm" />
-        <item itemvalue="Python.quadrant" />
-        <item itemvalue="Python.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -156,22 +156,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598560835681">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598692247580">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598560835681" />
-    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598560835681">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
+    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598692247580">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598560835681" />
-    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598560835681">
+    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
+    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598692247580">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598560835681" />
-    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598560835681">
+    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598692247580">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598560835681" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
