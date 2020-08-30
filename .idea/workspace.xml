@@ -28,8 +28,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pluscycle">
-    <configuration name="a+b-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.star-21">
+    <configuration name="sang-geun-nalds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +37,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/A+B-4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/상근날드" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/A+B-4/a+b-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/상근날드/sang-geun-nalds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +50,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a+b-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/A+B-5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/A+B-5/a+b-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13/star-13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a+b-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for문/A+B-7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for문/A+B-7/a+b-7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21/star-21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/if문/두 수 비교하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/if문/두 수 비교하기/compare.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9/star-9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pluscycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="threenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/while문/더하기 사이클" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/세 수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/while문/더하기 사이클/pluscycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/세 수/threenumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pluscycle" />
-        <item itemvalue="Python.a+b-4" />
-        <item itemvalue="Python.a+b-5" />
-        <item itemvalue="Python.a+b-7" />
-        <item itemvalue="Python.compare" />
+        <item itemvalue="Python.star-21" />
+        <item itemvalue="Python.star-9" />
+        <item itemvalue="Python.star-13" />
+        <item itemvalue="Python.threenumber" />
+        <item itemvalue="Python.sang-geun-nalds" />
       </list>
     </recent_temporary>
   </component>
@@ -156,22 +156,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598692247580">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598793993104">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
-    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598692247580">
+    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
+    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598793993104">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
-    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598692247580">
+    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
+    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598793993104">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
-    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598692247580">
+    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598793993104">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598692247580" />
+    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
