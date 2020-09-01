@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/배열/나머지/remainder.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/배열/나머지/remainder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +27,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BOJ/1차원 배열" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.star-21">
-    <configuration name="sang-geun-nalds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.overave">
+    <configuration name="OXQuiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/상근날드" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/OX퀴즈" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/상근날드/sang-geun-nalds.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/OX퀴즈/OXQuiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/평균" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13/star-13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/평균/average.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star-21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="minmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21/star-21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대/minmax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star-9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="overave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/평균은 넘겠지" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9/star-9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/평균은 넘겠지/overave.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="threenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="remainder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/실습1/세 수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/나머지" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/실습1/세 수/threenumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/나머지/remainder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.star-21" />
-        <item itemvalue="Python.star-9" />
-        <item itemvalue="Python.star-13" />
-        <item itemvalue="Python.threenumber" />
-        <item itemvalue="Python.sang-geun-nalds" />
+        <item itemvalue="Python.overave" />
+        <item itemvalue="Python.average" />
+        <item itemvalue="Python.OXQuiz" />
+        <item itemvalue="Python.remainder" />
+        <item itemvalue="Python.minmax" />
       </list>
     </recent_temporary>
   </component>
@@ -156,22 +163,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom" timestamp="1598793993104">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1598922415067">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
-    <state width="1418" height="206" key="GridCell.Tab.0.center" timestamp="1598793993104">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598922415067" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1598922415067">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
-    <state width="1418" height="206" key="GridCell.Tab.0.left" timestamp="1598793993104">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598922415067" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1598922415067">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
-    <state width="1418" height="206" key="GridCell.Tab.0.right" timestamp="1598793993104">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598922415067" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1598922415067">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1418" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598793993104" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598922415067" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
