@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/selfNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/함수/정수 N개의 합/integersum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/함수/정수 N개의 합/문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/함수/한수/oneNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/함수/한수/문제.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/selfNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/selfNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.overave">
+  <component name="RunManager" selected="Python.oneNum">
     <configuration name="OXQuiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minmax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="oneNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/함수/한수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대/minmax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/함수/한수/oneNum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="remainder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="selfNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/1차원 배열/나머지" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/함수/셀프 넘버" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/1차원 배열/나머지/remainder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/함수/셀프 넘버/selfNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oneNum" />
+        <item itemvalue="Python.selfNumber" />
         <item itemvalue="Python.overave" />
         <item itemvalue="Python.average" />
         <item itemvalue="Python.OXQuiz" />
-        <item itemvalue="Python.remainder" />
-        <item itemvalue="Python.minmax" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +165,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1598922733981">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1599144823819">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598922733981" />
-    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1598922733981">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599144823819" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1599144823819">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598922733981" />
-    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1598922733981">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599144823819" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1599144823819">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598922733981" />
-    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1598922733981">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599144823819" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1599144823819">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598922733981" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599144823819" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
