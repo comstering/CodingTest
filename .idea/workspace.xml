@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/BOJ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/BOJ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/CodeUp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/CodeUp.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +54,8 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gymSuit">
-    <configuration name="2016year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.findFraction">
+    <configuration name="break-evenPoint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/수학 1/손익분기점" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/2016year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/수학 1/손익분기점/break-evenPoint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="96" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="findFraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,32 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeUp/Basic100" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/수학 1/분수찾기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeUp/Basic100/96.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PracticeTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/PracticeTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/수학 1/분수찾기/findFraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notFinishPlayer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +126,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/수학 1/벌집" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/notFinishPlayer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/수학 1/벌집/hive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sugarDelivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/수학 1/설탕 배달" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/수학 1/설탕 배달/sugarDelivery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.findFraction" />
+        <item itemvalue="Python.hive" />
+        <item itemvalue="Python.sugarDelivery" />
+        <item itemvalue="Python.break-evenPoint" />
         <item itemvalue="Python.gymSuit" />
-        <item itemvalue="Python.PracticeTest" />
-        <item itemvalue="Python.notFinishPlayer" />
-        <item itemvalue="Python.2016year" />
-        <item itemvalue="Python.96" />
       </list>
     </recent_temporary>
   </component>
@@ -192,38 +194,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1599311139059">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1599336450973">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599311139059" />
-    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1599311139059">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450972" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1599336450972">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599311139059" />
-    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1599311139058">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450972" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1599336450972">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599311139058" />
-    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1599311139059">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450972" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1599336450972">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599311139059" />
-    <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1599226260400">
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450972" />
+    <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1599336450970">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599226260400" />
-    <state width="1410" height="255" key="GridCell.Tab.1.center" timestamp="1599226260400">
+    <state width="1410" height="255" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450970" />
+    <state width="1410" height="255" key="GridCell.Tab.1.center" timestamp="1599336450970">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599226260400" />
-    <state width="1410" height="255" key="GridCell.Tab.1.left" timestamp="1599226260400">
+    <state width="1410" height="255" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450970" />
+    <state width="1410" height="255" key="GridCell.Tab.1.left" timestamp="1599336450970">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599226260400" />
-    <state width="1410" height="255" key="GridCell.Tab.1.right" timestamp="1599226260400">
+    <state width="1410" height="255" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450970" />
+    <state width="1410" height="255" key="GridCell.Tab.1.right" timestamp="1599336450970">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599226260400" />
+    <state width="1410" height="255" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599336450970" />
     <state x="1110" y="129" key="SettingsEditor" timestamp="1598463031673">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
