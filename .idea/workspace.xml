@@ -52,8 +52,8 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nNum">
-    <configuration name="average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dartGame">
+    <configuration name="budgets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/average.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/budgets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guessCollatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dartGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/guessCollatz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/dartGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="harshardNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="failPer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/harshardNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/failPer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pressKeypad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/nNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/pressKeypad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="phoneNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trainningSuit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/phoneNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level1/trainningSuit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nNum" />
-        <item itemvalue="Python.phoneNum" />
-        <item itemvalue="Python.harshardNum" />
-        <item itemvalue="Python.average" />
-        <item itemvalue="Python.guessCollatz" />
+        <item itemvalue="Python.dartGame" />
+        <item itemvalue="Python.pressKeypad" />
+        <item itemvalue="Python.budgets" />
+        <item itemvalue="Python.trainningSuit" />
+        <item itemvalue="Python.failPer" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +192,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="255" key="GridCell.Tab.0.bottom" timestamp="1600061034992">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1600228918894">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600061034992" />
-    <state width="1410" height="255" key="GridCell.Tab.0.center" timestamp="1600061034992">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600228918894" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1600228918894">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600061034992" />
-    <state width="1410" height="255" key="GridCell.Tab.0.left" timestamp="1600061034992">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600228918894" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1600228918894">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600061034992" />
-    <state width="1410" height="255" key="GridCell.Tab.0.right" timestamp="1600061034992">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600228918894" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1600228918894">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600061034992" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600228918894" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600061034992">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -228,9 +228,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1110" y="129" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598463031673" />
-    <state x="1411" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1599401827012">
+    <state x="1411" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1600187377746">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1411" y="263" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599401827012" />
+    <state x="1411" y="263" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1600187377746" />
   </component>
 </project>
