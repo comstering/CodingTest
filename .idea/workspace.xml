@@ -20,267 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A+B/add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A+B/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A-B/sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A-B/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/AxB/mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/AxB/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A÷B/div.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/A÷B/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/Hello World/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/Hello World/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/We love kriii/WeLoveKriii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/We love kriii/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/개/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/개/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/고양이/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/고양이/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/곱셈/multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/곱셈/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/나머지/remainder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/나머지/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/사칙연산/fourcal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level1(입출력과 사칙연산)/사칙연산/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level10(재귀)/팩토리얼/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level10(재귀)/팩토리얼/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level10(재귀)/피보나치 수 5/fibonacciNumbers5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level10(재귀)/피보나치 수 5/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/두 수 비교하기/compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/두 수 비교하기/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/사분면 고르기/quadrant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/사분면 고르기/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/시험 성적/TestScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/시험 성적/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/알람 시계/alarm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/알람 시계/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/윤년/LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level2(if문)/윤년/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-3/a+b-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-3/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-7/a+b-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-7/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-8/a+b-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/A+B-8/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/N찍기/Npick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/N찍기/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/X보다 작은 수/stx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/X보다 작은 수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/구구단/gugudan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/구구단/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/기찍N/pickN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/기찍N/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/별찍기 - 1/star-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/별찍기 - 1/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/별찍기 - 2/star-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/별찍기 - 2/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/빠른 A+B/fastadd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/빠른 A+B/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/합/sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level3(for문)/합/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/A+B-4/a+b-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/A+B-4/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/A+B-5/a+b-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/A+B-5/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/더하기 사이클/pluscycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level4(while문)/더하기 사이클/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/OX퀴즈/OXQuiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/OX퀴즈/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/나머지/remainder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/나머지/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/숫자의 개수/countnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/숫자의 개수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/최댓값/maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/최댓값/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/최소, 최대/minmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/최소, 최대/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/평균/average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/평균/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/평균은 넘겠지/overave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5(1차원 배열)/평균은 넘겠지/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 13/star-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 13/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 21/star-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 21/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 9/star-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/별찍기 - 9/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/상근날드/sang-geun-nalds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/상근날드/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/세 수/threenumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/세 수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/평균점수/averagescore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level5였던것(실습1)/평균점수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/셀프 넘버/selfNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/셀프 넘버/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/정수 N개의 합/integersum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/정수 N개의 합/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/한수/oneNum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level6(함수)/한수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/그룹 단어 체커/GroupWordChecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/그룹 단어 체커/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/다이얼/dial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/다이얼/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/단어 공부/wordstudy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/단어 공부/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/단어의 개수/countword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/단어의 개수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/문자열 반복/stringrepeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/문자열 반복/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/상수/sangsu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/상수/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/숫자의 합/SumOfNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/숫자의 합/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/아스키 코드/ASCII_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/아스키 코드/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/알파벳 찾기/findspell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/알파벳 찾기/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/크로아티아 알파벳/croatiaalpha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level7(문자열)/크로아티아 알파벳/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/ACM호텔/acmHotel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/ACM호텔/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/Fly me to the Alpha Centauri/fmttac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/Fly me to the Alpha Centauri/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/달팽이는 올라가고 싶다/snailUp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/달팽이는 올라가고 싶다/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/벌집/hive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/벌집/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/부녀회장이 될테야/apart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/부녀회장이 될테야/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/분수찾기/findFractionalNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/분수찾기/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/설탕 배달/sugarDelivery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/설탕 배달/문제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/손익분기점/break-evenPoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/level8(수학 1)/손익분기점/문제.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/OX퀴즈/OXQuiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/OX퀴즈/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/나머지/remainder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/나머지/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/숫자의 개수/countnumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/숫자의 개수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/최댓값/maximum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/최댓값/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대/minmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/최소, 최대/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/평균/average.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/평균/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/평균은 넘겠지/overave.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/1차원 배열/평균은 넘겠지/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-3/a+b-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-3/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-7/a+b-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-7/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-8/a+b-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/A+B-8/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/N찍기/Npick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/N찍기/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/X보다 작은 수/stx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/X보다 작은 수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/구구단/gugudan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/구구단/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/기찍N/pickN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/기찍N/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/별찍기 - 1/star-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/별찍기 - 1/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/별찍기 - 2/star-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/별찍기 - 2/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/빠른 A+B/fastadd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/빠른 A+B/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/합/sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/for문/합/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/두 수 비교하기/compare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/두 수 비교하기/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/사분면 고르기/quadrant.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/사분면 고르기/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/시험 성적/TestScore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/시험 성적/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/알람 시계/alarm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/알람 시계/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/윤년/LeapYear.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/if문/윤년/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/A+B-4/a+b-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/A+B-4/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/A+B-5/a+b-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/A+B-5/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/더하기 사이클/pluscycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/while문/더하기 사이클/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/그룹 단어 체커/GroupWordChecker.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/그룹 단어 체커/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/다이얼/dial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/다이얼/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/단어 공부/wordstudy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/단어 공부/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/단어의 개수/countword.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/단어의 개수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/문자열 반복/stringrepeat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/문자열 반복/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/상수/sangsu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/상수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/숫자의 합/SumOfNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/숫자의 합/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/아스키 코드/ASCII_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/아스키 코드/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/알파벳 찾기/findspell.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/알파벳 찾기/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/크로아티아 알파벳/croatiaalpha.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/문자열/크로아티아 알파벳/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/ACM호텔/acmHotel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/ACM호텔/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/Fly me to the Alpha Centauri/fmttac.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/Fly me to the Alpha Centauri/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/달팽이는 올라가고 싶다/snailUp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/달팽이는 올라가고 싶다/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/벌집/hive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/벌집/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/부녀회장이 될테야/apart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/부녀회장이 될테야/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/분수찾기/findFractionalNumbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/분수찾기/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/설탕 배달/sugarDelivery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/설탕 배달/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/손익분기점/break-evenPoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/수학 1/손익분기점/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13/star-13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 13/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21/star-21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 21/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9/star-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/별찍기 - 9/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/상근날드/sang-geun-nalds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/상근날드/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/세 수/threenumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/세 수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/평균점수/averagescore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/실습1/평균점수/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A+B/add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A+B/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A-B/sub.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A-B/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/AxB/mul.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/AxB/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A÷B/div.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/A÷B/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/Hello World/HelloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/Hello World/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/We love kriii/WeLoveKriii.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/We love kriii/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/개/dog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/개/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/고양이/cat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/고양이/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/곱셈/multiple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/곱셈/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/나머지/remainder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/나머지/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/사칙연산/fourcal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/입출력과 사칙연산/사칙연산/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/selfNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/셀프 넘버/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/정수 N개의 합/integersum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/정수 N개의 합/문제.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/한수/oneNum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ/함수/한수/문제.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,8 +52,8 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.star-10">
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lifeBoat">
+    <configuration name="carpet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/재귀/팩토리얼" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/재귀/팩토리얼/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/carpet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacciNumbers5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lifeBoat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/재귀/피보나치 수 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/재귀/피보나치 수 5/fibonacciNumbers5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/lifeBoat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fmttac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="makeBigNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +103,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/수학 1/Fly me to the Alpha Centauri" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/수학 1/Fly me to the Alpha Centauri/fmttac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/makeBigNum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,34 +158,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="truckInBridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/leve2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/leve2/truckInBridge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lifeBoat" />
+        <item itemvalue="Python.carpet" />
+        <item itemvalue="Python.makeBigNum" />
+        <item itemvalue="Python.rectangle" />
         <item itemvalue="Python.star-10" />
-        <item itemvalue="Python.fibonacciNumbers5" />
-        <item itemvalue="Python.factorial" />
-        <item itemvalue="Python.truckInBridge" />
-        <item itemvalue="Python.fmttac" />
       </list>
     </recent_temporary>
   </component>
@@ -452,22 +192,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="255" key="GridCell.Tab.0.bottom" timestamp="1600340759263">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1600582279082">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600340759263" />
-    <state width="1410" height="255" key="GridCell.Tab.0.center" timestamp="1600340759263">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279082" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1600582279081">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600340759263" />
-    <state width="1410" height="255" key="GridCell.Tab.0.left" timestamp="1600340759262">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279081" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1600582279081">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600340759262" />
-    <state width="1410" height="255" key="GridCell.Tab.0.right" timestamp="1600340759263">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279081" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1600582279082">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="255" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600340759263" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279082" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600340759263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
