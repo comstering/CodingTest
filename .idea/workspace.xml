@@ -52,7 +52,7 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lifeBoat">
+  <component name="RunManager" selected="Python.numbersList">
     <configuration name="carpet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +66,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/carpet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacciNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/fibonacciNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbersList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,28 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/rectangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="star-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level10(재귀)/별찍기 - 10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level10(재귀)/별찍기 - 10/star-10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/numbersList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numbersList" />
+        <item itemvalue="Python.fibonacciNumber" />
         <item itemvalue="Python.lifeBoat" />
         <item itemvalue="Python.carpet" />
         <item itemvalue="Python.makeBigNum" />
-        <item itemvalue="Python.rectangle" />
-        <item itemvalue="Python.star-10" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +192,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1600582279082">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom" timestamp="1600777834272">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279082" />
-    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1600582279081">
+    <state width="1410" height="205" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600777834272" />
+    <state width="1410" height="205" key="GridCell.Tab.0.center" timestamp="1600777834272">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279081" />
-    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1600582279081">
+    <state width="1410" height="205" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600777834272" />
+    <state width="1410" height="205" key="GridCell.Tab.0.left" timestamp="1600777834272">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279081" />
-    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1600582279082">
+    <state width="1410" height="205" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600777834272" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right" timestamp="1600777834272">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600582279082" />
+    <state width="1410" height="205" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600777834272" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600340759263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
