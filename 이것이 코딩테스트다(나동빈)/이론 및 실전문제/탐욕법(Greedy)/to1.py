@@ -13,4 +13,3 @@ def solution(n, k):
 
 
 print(solution(25, 5))
-print()
