@@ -1,7 +1,9 @@
 n, m = map(int, input().split())
 x, y, direction = map(int, input().split())
 
+# 지나간 위치 표시를 위한 map
 d = [[0] * m for _ in range(n)]
+# 첫 위치는 지나간 위치로 인식
 d[x][y] = 1
 
 mapped = []
@@ -14,10 +16,16 @@ dy = [0, 1, 0, -1]
 
 # 왼쪽으로 회전
 def turn_left():
+    # direction
+    # 0: 북
+    # 1: 동
+    # 2: 남
+    # 3: 서
     global direction
     direction -= 1
     if direction == -1:
         direction = 3
+
 
 # 시뮬레이션
 count = 1
