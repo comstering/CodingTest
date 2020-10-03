@@ -1,4 +1,4 @@
-def hanoi(n, t):
+def hanoi(t):
     if len(t[0]) == 0:
         if len(t[1]) % 2 == 0:
             t[0].append(t[1].pop())
@@ -48,4 +48,4 @@ num = int(input())
 print(2 ** num - 1)
 tower = [list(reversed(range(num))), [], []]
 while len(tower[2]) < num:
-    hanoi(num, tower)
+    hanoi(tower)

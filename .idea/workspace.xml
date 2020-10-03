@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/level10(재귀)/하노이 탑 이동 순서/hanoiTower.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/level10(재귀)/하노이 탑 이동 순서/hanoiTower.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +49,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\CodingTest\BOJ\level9(수학 2)\소수" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hanoiTower">
-    <configuration name="correctBracket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.turret">
+    <configuration name="dotFour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/네 번째 점" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/correctBracket.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/네 번째 점/dotFour.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hanoiTower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="escapeRectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level10(재귀)/하노이 탑 이동 순서" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/직사각형에서 탈출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level10(재귀)/하노이 탑 이동 순서/hanoiTower.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/직사각형에서 탈출/escapeRectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rightAngleTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/직각삼각형" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/maxEquation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/직각삼각형/rightAngleTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nextNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="taxiCabGeometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/택시 기하학" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/nextNum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/택시 기하학/taxiCabGeometry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="star-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="turret" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level10(재귀)/별찍기 - 10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/터렛" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level10(재귀)/별찍기 - 10/star-10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/터렛/turret.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hanoiTower" />
-        <item itemvalue="Python.star-10" />
-        <item itemvalue="Python.nextNum" />
-        <item itemvalue="Python.correctBracket" />
-        <item itemvalue="Python.maxEquation" />
+        <item itemvalue="Python.turret" />
+        <item itemvalue="Python.taxiCabGeometry" />
+        <item itemvalue="Python.rightAngleTriangle" />
+        <item itemvalue="Python.dotFour" />
+        <item itemvalue="Python.escapeRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +196,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="218" key="GridCell.Tab.0.bottom" timestamp="1601735577158">
+    <state width="1410" height="217" key="GridCell.Tab.0.bottom" timestamp="1601746273230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="218" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601735577158" />
-    <state width="1410" height="218" key="GridCell.Tab.0.center" timestamp="1601735577158">
+    <state width="1410" height="217" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601746273230" />
+    <state width="1410" height="217" key="GridCell.Tab.0.center" timestamp="1601746273230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="218" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601735577158" />
-    <state width="1410" height="218" key="GridCell.Tab.0.left" timestamp="1601735577158">
+    <state width="1410" height="217" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601746273230" />
+    <state width="1410" height="217" key="GridCell.Tab.0.left" timestamp="1601746273230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="218" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601735577158" />
-    <state width="1410" height="218" key="GridCell.Tab.0.right" timestamp="1601735577158">
+    <state width="1410" height="217" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601746273230" />
+    <state width="1410" height="217" key="GridCell.Tab.0.right" timestamp="1601746273230">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="218" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601735577158" />
+    <state width="1410" height="217" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601746273230" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600340759263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
