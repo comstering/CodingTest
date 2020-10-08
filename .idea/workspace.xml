@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/Programming1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +49,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Programming\CodingTest\BOJ\level9(수학 2)\소수" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\CodingTest\BOJ\level9(수학 2)\소수" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.directorShom">
-    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Programming2">
+    <configuration name="Programming1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/블랙잭" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/블랙잭/blackjack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October/Programming1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bodySize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Programming2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/덩치" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/덩치/bodySize.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October/Programming2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decompositionSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Programming3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +107,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/분해합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/분해합/decompositionSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October/Programming3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Programming4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/October/Programming4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,34 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turret" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level9(수학 2)/터렛" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level9(수학 2)/터렛/turret.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Programming2" />
+        <item itemvalue="Python.Programming3" />
+        <item itemvalue="Python.Programming4" />
+        <item itemvalue="Python.Programming1" />
         <item itemvalue="Python.directorShom" />
-        <item itemvalue="Python.bodySize" />
-        <item itemvalue="Python.decompositionSum" />
-        <item itemvalue="Python.blackjack" />
-        <item itemvalue="Python.turret" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +196,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="227" key="GridCell.Tab.0.bottom" timestamp="1601883719612">
+    <state width="1410" height="227" key="GridCell.Tab.0.bottom" timestamp="1602164810859">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601883719612" />
-    <state width="1410" height="227" key="GridCell.Tab.0.center" timestamp="1601883719612">
+    <state width="1410" height="227" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
+    <state width="1410" height="227" key="GridCell.Tab.0.center" timestamp="1602164810859">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601883719612" />
-    <state width="1410" height="227" key="GridCell.Tab.0.left" timestamp="1601883719612">
+    <state width="1410" height="227" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
+    <state width="1410" height="227" key="GridCell.Tab.0.left" timestamp="1602164810859">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601883719612" />
-    <state width="1410" height="227" key="GridCell.Tab.0.right" timestamp="1601883719612">
+    <state width="1410" height="227" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
+    <state width="1410" height="227" key="GridCell.Tab.0.right" timestamp="1602164810859">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601883719612" />
+    <state width="1410" height="227" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600340759263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
