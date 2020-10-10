@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/Monthly Code Challenge Season 1/Programming1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="D:\Programming\CodingTest\BOJ\level9(수학 2)\소수" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Programming2">
+  <component name="RunManager" selected="Python.chess">
     <configuration name="Programming1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="directorShom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/영화감독 숌" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/체스판 다시 칠하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/영화감독 숌/directorShom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/level11(브루트 포스)/체스판 다시 칠하기/chess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chess" />
         <item itemvalue="Python.Programming2" />
         <item itemvalue="Python.Programming3" />
         <item itemvalue="Python.Programming4" />
         <item itemvalue="Python.Programming1" />
-        <item itemvalue="Python.directorShom" />
       </list>
     </recent_temporary>
   </component>
@@ -196,22 +195,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1410" height="227" key="GridCell.Tab.0.bottom" timestamp="1602164810859">
+    <state width="1410" height="227" key="GridCell.Tab.0.bottom" timestamp="1602336250724">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
-    <state width="1410" height="227" key="GridCell.Tab.0.center" timestamp="1602164810859">
+    <state width="1410" height="227" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602336250724" />
+    <state width="1410" height="227" key="GridCell.Tab.0.center" timestamp="1602336250724">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
-    <state width="1410" height="227" key="GridCell.Tab.0.left" timestamp="1602164810859">
+    <state width="1410" height="227" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602336250724" />
+    <state width="1410" height="227" key="GridCell.Tab.0.left" timestamp="1602336250724">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
-    <state width="1410" height="227" key="GridCell.Tab.0.right" timestamp="1602164810859">
+    <state width="1410" height="227" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602336250724" />
+    <state width="1410" height="227" key="GridCell.Tab.0.right" timestamp="1602336250724">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1410" height="227" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602164810859" />
+    <state width="1410" height="227" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602336250724" />
     <state width="1410" height="255" key="GridCell.Tab.1.bottom" timestamp="1600340759263">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
