@@ -1,4 +1,2 @@
-a, b, c = input().split('.')
-print(c, end='-')
-print(b, end='-')
-print(a)
+y, m, d = input().split('.')
+print('{0}-{1}-{2}'.format(d, m, y))

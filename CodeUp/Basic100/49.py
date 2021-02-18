@@ -1,5 +1,2 @@
-a, b = map(int, input().split())
-if a > b:
-    print(1)
-else:
-    print(0)
+n1, n2 = map(int, input().split())
+print('%d' % (n1 > n2))

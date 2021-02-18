@@ -1,4 +1,2 @@
-a, b = input().split()
-a = int(a)
-b = int(b)
-print(a * (2 ** b))
+n1, n2 = map(int, input().split())
+print(n1 << n2)

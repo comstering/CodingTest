@@ -1,2 +1,2 @@
 a, b = input().split('-')
-print('%06d%07d' %(int(a), int(b)))
+print('{0}{1}'.format(a, b))

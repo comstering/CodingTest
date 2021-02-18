@@ -1,2 +1,1 @@
-a, b, c = input().split(":")
-print(int(b))
+print(int(input().split(':')[1]))

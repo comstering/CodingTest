@@ -20,8 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd43ebdc-1afe-47b0-b913-e5ae4e12cfa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fastcapmpus/알고리즘&amp;기술면접 완전 정복 올인원 패키지/자료구조 이론/링크드리스트/ex_linkedlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/13.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/15.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/19.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/20.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/25.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/27.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/38.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/39.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/42.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/43.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/45.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/45.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/46.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/47.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/48.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/49.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/50.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/51.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/52.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/53.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/59.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/60.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/60.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/61.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/61.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/62.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/62.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/64.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/83.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/83.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/94.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/95.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/95.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/96.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/96.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/97.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/97.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeUp/Basic100/98.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeUp/Basic100/98.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +69,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1ge73lbaEtzrNn1JFOtE3w9rOoq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +84,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BOJ/1차원 배열" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -56,8 +96,8 @@
       <recent name="D:\Programming\CodingTest\BOJ\1차원 배열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex_linkedlist">
-    <configuration name="createSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.52">
+    <configuration name="50" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +105,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeUp/Basic100" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/createSolution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeUp/Basic100/50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="52" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeUp/Basic100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeUp/Basic100/52.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,34 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="skilltree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/level2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/level2/skilltree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.52" />
+        <item itemvalue="Python.50" />
         <item itemvalue="Python.ex_linkedlist" />
         <item itemvalue="Python.ex_stack" />
         <item itemvalue="Python.ex_queue" />
-        <item itemvalue="Python.createSolution" />
-        <item itemvalue="Python.skilltree" />
       </list>
     </recent_temporary>
   </component>

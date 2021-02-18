@@ -1,2 +1,2 @@
-a, b, c = input().split('.')
-print('%04d.%02d.%02d' %(int(a), int(b), int(c)))
+y, m, d = input().split('.')
+print('{0:0>4}.{1:0>2}.{2:0>2}'.format(y, m, d))

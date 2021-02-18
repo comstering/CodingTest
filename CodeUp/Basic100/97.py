@@ -1,18 +1,18 @@
+# 바둑판 입력
 badook = []
 for i in range(0, 19):
     badook.append(list(map(int, input().split())))
+# 십자 뒤집기 좌표 입력
 num = int(input())
+cross = []
 for i in range(0, num):
-    a, b = map(int, input().split())
-    for j in range(0, 19):
-        for k in range(0, 19):
-            if j == a - 1 or k == b - 1:
-                if j == a - 1 and k == b - 1:
-                    continue
-                elif badook[j][k] == 1:
-                    badook[j][k] = 0
-                else:
-                    badook[j][k] = 1
+    cross.append(tuple(map(int, input().split())))
+# 십자 뒤집기 진행
+for i in cross:
+    badook[i[0] - 1] = [int(not b) for b in badook[i[0] - 1]]
+    for j in badook:
+        j[i[1] - 1] = int(not j[i[1] - 1])
+# 바둑판 출력
 for i in badook:
     for j in i:
         print(j, end=" ")

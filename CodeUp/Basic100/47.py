@@ -1,2 +1,1 @@
-a = int(input())
-print(a*2)
+print(int(input()) << 1)

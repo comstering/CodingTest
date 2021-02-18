@@ -1,2 +1,3 @@
 input()
-print(min(list(map(int, input().split()))))
+a = map(int, input().split())
+print(min(a))
