@@ -1,2 +1,2 @@
 *.ipynb linguist-detectable=false
-Fastcapmpus/*.cpp linguist-detectable=false
+*.cpp linguist-detectable=false
