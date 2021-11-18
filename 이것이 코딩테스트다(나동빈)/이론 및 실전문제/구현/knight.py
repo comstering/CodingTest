@@ -6,7 +6,7 @@ def solution(location):
     for i in change:
         chx = x + i[0]
         chy = y + i[1]
-        if chx > 0 and chy > 0:
+        if 0 < chx < 9 and 0 < chy < 9:
             count += 1
     return count
 

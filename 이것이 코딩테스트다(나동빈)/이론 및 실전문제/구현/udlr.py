@@ -1,23 +1,16 @@
 def solution(n, line):
     x, y = 1, 1
+    dx = [0, 0, -1, 1]
+    dy = [-1, 1, 0, 0]
+    mv_types = ['U', 'D', 'L', 'R']
     for i in line:
-        if i == 'R':
-            x += 1
-        elif i == 'L':
-            x -= 1
-        elif i == 'U':
-            y -= 1
-        elif i == 'D':
-            y += 1
-        if x < 1:
-            x = 1
-        if y < 1:
-            y = 1
-        if x > n:
-            x = n
-        if y > n:
-            y = n
-    return y, x
+        idx = mv_types.index(i)
+        x += dx[idx]
+        y += dy[idx]
+        x = x if x > 0 else 1
+        y = y if y > 0 else 1
+
+    return x, y
 
 
 n = int(input())
