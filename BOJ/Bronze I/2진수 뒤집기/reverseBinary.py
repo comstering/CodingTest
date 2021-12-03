@@ -1,0 +1,1 @@
+print(int(f"0b{''.join(reversed(format(int(input()), 'b')))}", 2))
