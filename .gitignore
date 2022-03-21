@@ -1,2 +1,7 @@
 .idea/
 venv/
+
+# kotlin jar 파일
+*.jar
+# java class 파일
+*.class
